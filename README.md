@@ -6,6 +6,7 @@
 ## Examples 
 
 ![number](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/7f1ed300-cfdd-4a7b-a2b3-2939be0c9b39)
+
 In this picture you can see the numbers used to make the model.
 
 ![Method](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/8777fdaf-a5b6-4022-b104-c9863a95a1c4)
