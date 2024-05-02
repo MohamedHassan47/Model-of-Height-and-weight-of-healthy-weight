@@ -7,12 +7,12 @@
 
 ![number](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/7f1ed300-cfdd-4a7b-a2b3-2939be0c9b39)
 
-In this picture you can see the numbers used to make the model.
+### In this picture you can see the numbers used to make the model.
 
 ![Method](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/8777fdaf-a5b6-4022-b104-c9863a95a1c4)
 
 
-In this picture you can see the method used to create the model. 
+### In this picture you can see the method used to create the model. 
 ![graph2](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/41b63923-1032-47c1-8eb8-f17519141284)
 
 ![graph](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/866fe57e-0365-4eb4-ac3f-59c1903fbb67)
