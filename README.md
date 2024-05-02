@@ -16,6 +16,13 @@
 
 ![graph](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/866fe57e-0365-4eb4-ac3f-59c1903fbb67)
 
+
+### In this picture you can see the code used to create the graph
 ![bestfit](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/70056723-265c-4f2a-a845-d7aaf95de520)
 
+
+### In this picture you can see the code to create the best fit line. 
 ![corr](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/4164321d-b5f8-4491-b037-08b19d31c85d)
+
+
+### In this picture you can see the code to create the correlation coefficient.
