@@ -13,10 +13,7 @@
 
 
 ### In this picture you can see the method used to create the model. 
-![graph2](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/41b63923-1032-47c1-8eb8-f17519141284)
 
-
-### In this picture you can see the grap
 ![graph](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/866fe57e-0365-4eb4-ac3f-59c1903fbb67)
 
 ![bestfit](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/70056723-265c-4f2a-a845-d7aaf95de520)
