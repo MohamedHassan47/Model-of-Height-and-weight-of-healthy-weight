@@ -10,3 +10,8 @@
 
 ![graph2](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/41b63923-1032-47c1-8eb8-f17519141284)
 
+![graph](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/866fe57e-0365-4eb4-ac3f-59c1903fbb67)
+
+![bestfit](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/70056723-265c-4f2a-a845-d7aaf95de520)
+
+![corr](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/4164321d-b5f8-4491-b037-08b19d31c85d)
