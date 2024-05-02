@@ -10,6 +10,7 @@ In this picture you can see the numbers used to make the model.
 
 ![Method](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/8777fdaf-a5b6-4022-b104-c9863a95a1c4)
 
+
 In this picture you can see the method used to create the model. 
 ![graph2](https://github.com/MohamedHassan47/Model-of-Height-and-weight-of-healthy-weight/assets/146730782/41b63923-1032-47c1-8eb8-f17519141284)
 
